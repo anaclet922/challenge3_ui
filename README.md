@@ -1,3 +1,3 @@
 ## Challenge #2
 
-Build found [here](https://challenge2.anaclet.online/).
+Build found [here](http://challenge3ui.anaclet.online/).
